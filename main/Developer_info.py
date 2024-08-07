@@ -1,6 +1,6 @@
 #Developer info
-Name = "Aditya Kumar"
+Name = "Pragya"
 Roll_Number = "1901230100001"
 College_code = "123"
-Branch = "Computer Science"
-Course = "B.Tech"
+Branch = "Information technology"
+Course = "MCA"
